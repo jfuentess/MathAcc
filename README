@@ -1,0 +1,19 @@
+Files and code complementary to the publication "Improving Accessibility to Mathematical Formulas: The Wikipedia Math Accesor"
+
+Authors : Leo Ferres and José Fuentes Sepulveda
+	  Department of Computer Science
+	  University of Concepción, Chile
+
+##### Files #####
+
+- reader.tar.gz: Contain the source code using in this research. It is composed of:
+		- Natural language generator, based in template.
+		- Version of Snuggletex, used in this research
+- stimuli.tar.gz: Web page used as stimuli to obtain the best natural language description for 21 formulas of sample. Further, contain the answer of the study.
+
+- formulasWikipedia_nov-2011.txt.tar.gz: All formulas of Wikipedia's version November, 2011.
+
+-SampleFormulas.tar.gz: Sample of 100, 500 and 1000 Wikipedia's formulas to evaluation the natural language generator.
+
+
+Created: November 23, 2011.
